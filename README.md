@@ -1,1 +1,1 @@
-# Common device tree for Xiaomi MT6768 devices
+# Device tree for Galaxy A31 [WIP]
